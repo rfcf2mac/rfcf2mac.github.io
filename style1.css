@@ -1,0 +1,58 @@
+a {
+    color: rgb(111, 211, 71);
+  }
+  
+  li a {
+    color: rgb(200, 255, 0);
+  }
+  
+  header {
+    display: inline-block;
+    width: 100%;
+    background-color: rgb(57, 125, 228);
+   
+    border: 5px;
+    border-style: solid;
+    text-align: center;
+  }
+  
+  nav {
+    border: 5px;
+    border-style: solid;
+    padding: 5px;
+    margin: 0px;
+    background-color: brown;
+    font-size: 20px;
+  }
+  
+  h1 {
+    display: inline-block;
+    text-shadow: 1px 1px 1px rgb(194, 235, 15);
+    text-align: center;
+    font-size: 60px;
+    margin: 0px;
+   
+  }
+  
+   #logo {
+    display: inline-block;
+      border: 10px;
+     padding: 10px;
+      margin: 10px;
+      float: leftt;
+  } 
+
+#pic {
+    display: inline-block;
+    float: right;
+    margin:  20px; 
+}
+ 
+     
+    
+figure {
+    margin-right: 100px;
+    margin-bottom: 100px;
+  
+
+  
